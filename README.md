@@ -24,6 +24,8 @@
 <img src="https://img.stackshare.io/stack/508688/c85654cdbd8aff0751f8628d64605faac44f586d.png" alt ="Koyeb" width="40" height="40">
 <img src="https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/square-png.png" alt ="CleverCloud" width="40" height="40">
 <img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt ="Python" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
 </p>
 
 <p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>

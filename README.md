@@ -29,6 +29,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt ="Docker" width="40" height="40">
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/210/original/java-logo-transparent-free-png.png" alt ="Java" width="40" height="40">
+  <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt ="Java" width="50" height="40">
 </p>
 
 <p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>

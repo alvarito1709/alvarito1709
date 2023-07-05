@@ -26,6 +26,7 @@
 <img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt ="Python" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt ="Docker" width="40" height="40">
 </p>
 
 <p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>

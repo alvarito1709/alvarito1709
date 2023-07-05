@@ -3,7 +3,7 @@
 <h2 align="center">I'm a full stack developer based in Argentina :round_pushpin:</h2>
 
 <h3>Basics about me. :cowboy_hat_face:</h3>
-<hr>
+
 <p>I started coding in 2021 when I get interested in a JavaScript course. Never stoped learning since then. :mechanical_arm: </p>
 
 <p>In 2022 I get into technologies like Angular, Java/Springboot, MySQL, Typescript, and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>

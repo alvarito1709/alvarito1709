@@ -11,6 +11,18 @@
 <h4>:nerd_face: Some of the technologies I know.</h4>
 <hr>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">
+<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt ="GIT" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="HTML" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="MySQL" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt ="NodeJs" width="40" height="40">
+<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt ="PostMan" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt ="TypeScript" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt ="Angular" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" alt ="Ruby" width="40" height="40">
+<img src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt ="Firebase" width="40" height="40">
+<img src="https://img.stackshare.io/stack/508688/c85654cdbd8aff0751f8628d64605faac44f586d.png" alt ="Koyeb" width="40" height="40">
+<img src="https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/square-png.png" alt ="CleverCloud" width="40" height="40">
+<img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
 
 <!--
 **alvarito1709/alvarito1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

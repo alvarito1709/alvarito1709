@@ -9,7 +9,7 @@
 <p>In 2022 I get into technologies like Angular, Java/Springboot, MySQL, Typescript, and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
 
 <h3>:nerd_face: Some of the technologies I know.</h3>
-<hr>
+<hr height="1" width="80%">
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">

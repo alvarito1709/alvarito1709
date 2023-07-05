@@ -3,6 +3,7 @@
 <h2 align="center">I'm a full stack developer based in Argentina :round_pushpin:</h2>
 
 <h3>Basics about me. :cowboy_hat_face:</h3>
+<hr>
 
 <p>I started coding in 2021 when I get interested in a JavaScript course. Never stoped learning since then. :mechanical_arm: </p>
 

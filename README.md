@@ -3,14 +3,14 @@
 <h2 align="center">I'm a full stack developer based in Argentina :round_pushpin:</h2>
 
 <h3>Basics about me. :cowboy_hat_face:</h3>
-<hr>
+<hr height="1" width="80%" align="center">
 
 <p>I started coding in 2021 when I get interested in a JavaScript course. Never stoped learning since then. :mechanical_arm: </p>
 
 <p>In 2022 I get into technologies like Angular, Java/Springboot, MySQL, Typescript, and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
 
 <h3>:nerd_face: Some of the technologies I know.</h3>
-<hr height="1" width="80%">
+<hr height="1" width="80%" align="center">
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">
@@ -33,7 +33,7 @@
 <p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>
 
 <h3>Follow me at :iphone:</h3>
-<hr>
+<hr height="1" width="80%" align="center">
 <p>
 <a href="https://www.instagram.com/alvaritx_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" ></a>
   <a href="www.linkedin.com/in/alvaro1709" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" ></a>

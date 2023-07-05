@@ -1,15 +1,16 @@
-### Hi there 👋, I'm Alvaro Ortiz.
+<h1 align="center">Hi there 👋, I'm Alvaro Ortiz.</h1>
 
-<h4 align="center">I'm a full sack developer based in Argentina :argentina:</h4>
+<h2 align="center">I'm a full sack developer based in Argentina :round_pushpin:</h2>
 
-<h4>Basics about me. :cowboy_hat_face:</h4>
+<h3>Basics about me. :cowboy_hat_face:</h3>
 <hr>
 <p>I started coding in 2021 when I get interested in a JavaScript course. Never stoped learning since then. :mechanical_arm: </p>
 
 <p>In 2022 I get into technologies like Angular, Java/Springboot, MySQL, Typescript, and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
 
-<h4>:nerd_face: Some of the technologies I know.</h4>
+<h3>:nerd_face: Some of the technologies I know.</h3>
 <hr>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt ="GIT" width="40" height="40"> 
@@ -23,7 +24,17 @@
 <img src="https://img.stackshare.io/stack/508688/c85654cdbd8aff0751f8628d64605faac44f586d.png" alt ="Koyeb" width="40" height="40">
 <img src="https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/square-png.png" alt ="CleverCloud" width="40" height="40">
 <img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
+</p>
 
+<p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>
+
+<h3>Follow me at :iphone:</h3>
+<hr>
+<p>
+<a href="https://www.instagram.com/alvaritx_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" ></a>
+  <a href="www.linkedin.com/in/alvaro1709" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" ></a>
+  <a href="www.twitter.com/codingchild" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" ></a>
+</p>
 <!--
 **alvarito1709/alvarito1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

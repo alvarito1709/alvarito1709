@@ -28,7 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt ="Python" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt ="Docker" width="40" height="40">
-  <img src="https://st3.depositphotos.com/13803186/19300/v/450/depositphotos_193009322-stock-illustration-java-source-trademark-logo-design.jpg" alt ="Java" width="40" height="40">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/210/original/java-logo-transparent-free-png.png" alt ="Java" width="40" height="40">
 </p>
 
 <p> :mailbox: You can reach me at: Alvaro9943310@gmail.com</p>

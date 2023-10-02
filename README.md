@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt ="Angular" width="40" height="40">
 <img src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt ="Firebase" width="40" height="40">
 <img src="https://img.stackshare.io/stack/508688/c85654cdbd8aff0751f8628d64605faac44f586d.png" alt ="Koyeb" width="40" height="40">
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d72ad1da8bcbb33d1b2983ef2e3765b3/clever-cloud.png" alt ="CleverCloud" width="40" height="40">
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d72ad1da8bcbb33d1b2983ef2e3765b3/clever-cloud.png" alt ="CleverCloud" width="45" height="40">
 <img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt ="Docker" width="40" height="40">

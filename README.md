@@ -36,8 +36,8 @@
 <hr>
 <p>
 <a href="https://www.instagram.com/alvaritx_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" ></a>
-  <a href="www.linkedin.com/in/alvaro1709" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" ></a>
-  <a href="www.twitter.com/codingchild" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" width="30" height="30" ></a>
+  <a href="https://www.linkedin.com/in/alvaro1709/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" ></a>
+  <a href="https://www.twitter.com/codingchild" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" width="30" height="30" ></a>
 </p>
 <!--
 **alvarito1709/alvarito1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

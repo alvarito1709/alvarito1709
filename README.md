@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alvaro Ortiz.</h1>
 
-<h2 align="center">I'm a full stack developer based in Argentina :round_pushpin:</h2>
+<h3 align="center">I'm a full stack developer based in Argentina :round_pushpin:</h3>
 <hr>
 
 <h3>Basics about me. :cowboy_hat_face:</h3>

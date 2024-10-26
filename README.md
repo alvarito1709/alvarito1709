@@ -22,7 +22,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_qS2wsTsFvXI2QtOiX4bIZoGzjy07604-8A&s" alt ="PostMan" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt ="TypeScript" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt ="Angular" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt ="Firebase" width="60" height="40">
-<img src="https://img.stackshare.io/stack/508688/c85654cdbd8aff0751f8628d64605faac44f586d.png" alt ="Koyeb" width="40" height="40">
+<img src="https://avatars.githubusercontent.com/u/50234573?s=200&v=4" alt ="Koyeb" width="40" height="40">
 <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d72ad1da8bcbb33d1b2983ef2e3765b3/clever-cloud.png" alt ="CleverCloud" width="45" height="40">
 <img src="https://i.pinimg.com/originals/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.png" alt ="XAMPP" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">

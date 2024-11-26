@@ -33,7 +33,7 @@
 
 ## ▲ GitHub Statistics:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvarito17092&show_icons=true&theme=gotham)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvarito1709&show_icons=true&theme=gotham)
 
 <p> :mailbox: You can reach me at: codingchild17@gmail.com</p>
 

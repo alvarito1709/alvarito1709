@@ -31,10 +31,6 @@
   <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt ="Java" width="50" height="40">
 </p>
 
-## ▲ GitHub Statistics:
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvarito1709&show_icons=true&theme=gotham)
-
 <p> :mailbox: You can reach me at: codingchild17@gmail.com</p>
 
 <h3>Follow me at :iphone:</h3>
